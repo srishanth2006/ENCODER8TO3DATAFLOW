@@ -18,9 +18,7 @@ Figure 01  Block Diagram of Encoder 8 * 3
 
 **Truth Table**
 
-<img width="313" alt="image" src="https://github.com/user-attachments/assets/fd40b307-d635-40eb-a4df-d2aab43857b1">
-
-
+![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 The logical expression of the term A0, A1, and A2 are as follows:
 
 A0 = D1 + D3 + D5 + D7
